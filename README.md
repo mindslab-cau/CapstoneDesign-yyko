@@ -6,9 +6,11 @@
 - 지도교수: 고윤용
 - Office: 310관 744호
 - E-mail: yyko@cau.ac.kr
+- TA: 박세준
+- Office: 208관 516호
+- E-mail: kty8300@cau.ac.kr
 
 ## Course Schedule
-
 
 |    Week     |  Dates   |        Topic         | Class |  Assignments | Note |
 | :----------: | :-----------: | :-------------------: | :-------: | :-------: | :-------: |
@@ -29,3 +31,18 @@
 | 15           | June 13, 2025  |  Final Presentation             | 208-519 | Final report            |             |
 | 16           | June 20, 2025  |  Final exam                     | X       |           |             |
 
+
+## Details on Presentation
+### Proposal Presentation
+- 팀당 15분: 발표 10분 + 질의응답 5분 (시간 엄수, 10분 초과시 발표 즉시 종료)
+- 발표 형식 자유
+- 멘토 매칭을 위한 Proposal report 작성 (word 포맷 1장 이내로 작성)
+- Proposal presentation은 최종 평가에 포함되지 않음
+### Midterm Presentation
+- 팀당 20분: 15분 발표 + 질의응답 약 5분 (시간 엄수, 15분 초과시 발표 즉시 종료)
+- 발표 형식 자유
+- 지도교수 + 조교 + 수강생 peer review 평가
+### Final Presentation + Demo
+- 팀 당 20분: 팀 당 10분 발표 + 질의응답 10분 (발표 10분보다 짧아도 됨, 10분 초과시 발표 즉시 종료)
+- 발표 형식 자유
+- 지도교수 + 조교 + 수강생 peer review 평가
