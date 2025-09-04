@@ -1,7 +1,5 @@
 # CapstoneDesign-2025-spring
 - 캡스톤디자인 06분반
-- 본 내용은 학기가 진행됨에 따라 일부 변경될 수 있음
-
 
 ## Course Schedule
 
