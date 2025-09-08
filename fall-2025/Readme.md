@@ -1,4 +1,4 @@
-# CapstoneDesign-2025-spring
+# CapstoneDesign-2025-fall
 - 캡스톤디자인 06분반
 
 ## Course Schedule
