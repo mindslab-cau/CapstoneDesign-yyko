@@ -13,10 +13,10 @@
 | 6            | October 10, 2025   |  2nd Feedback - industry expert  | X       | 2nd mentoring report      |             |
 | 7            | October 17, 2025   |  2nd Feedback - instructor       | 310-744 |                           |             |
 | 8            | October 24, 2025   |  Midterm exam                    | X       |                           |             |
-| 9            | October 31, 2025   |  No Class                        | TBD     |                           |      |
+| 9            | October 31, 2025   |  No Class                        | X       |                           |      |
 | 10           | November 7, 2025   |  Midterm Presentation            | 208-415 |                           |             |
 | 11           | November 14, 2025  |  3rd Feedback - industry expert  | X       | 3rd mentoring report      |             |
-| 12           | November 21, 2025  |  No Class                        | X       |                           |  **Start-up Seminar**  |
+| 12           | November 21, 2025  |  No Class                        | TBD       |                           |  **Start-up Seminar**  |
 | 13           | November 28, 2025  |  Last Feedback - industry expert | X       | 4th mentoring report      |             |
 | 14           | December 5, 2025   |  Last Feedback - instructor      | X       |                           |             |
 | 15           | December 12, 2025  |  Final Presentation              | 208-415 | Final report, User Manual |             |
