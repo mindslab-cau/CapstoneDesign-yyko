@@ -10,8 +10,8 @@
 | 3            | March 20, 2026     |  1st Feedback - industry expert  | X       | 1st mentoring report      |             |
 | 4            | March 27, 2026     |  1st Feedback - instructor       | 310-744 |                           |             |
 | 5            | April 3, 2026      |  2nd Feedback - industry expert  | X       | 2nd mentoring report      |             |
-| 6            | April 10, 2026     |  No Class                        | X       |                           |             |
-| 7            | April 17, 2026     |  2nd Feedback - instructor       | 310-744 |                           |             |
+| 6            | April 10, 2026     |  2nd Feedback - instructor                          | 310-744       |                           |             |
+| 7            | April 17, 2026     |  No Class     | X |                           |             |
 | 8            | April 24, 2026     |  Midterm exam                    | X       |                           |             |
 | 9            | May 1, 2026        |  No Class                        | X       |                           |             |
 | 10           | May 8, 2026        |  Midterm Presentation            | 208-519 |                           |             |
