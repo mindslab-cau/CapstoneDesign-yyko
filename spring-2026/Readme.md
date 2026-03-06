@@ -16,7 +16,7 @@
 | 9            | May 1, 2026        |  No Class                        | X       |                           |             |
 | 10           | May 8, 2026        |  Midterm Presentation            | 208-519 |                           |             |
 | 11           | May 15, 2026       |  3rd Feedback - industry expert  | X       | 3rd mentoring report      |             |
-| 12           | May 22, 2026       |  No Class                        | X       |                           |             |
+| 12           | May 22, 2026       |  3rd Feedback - instructor       | 310-744 |                           |             |
 | 13           | May 29, 2026       |  Last Feedback - industry expert | X       | 4th mentoring report      |             |
 | 14           | June 5, 2026       |  Last Feedback - instructor      | X       |                           |             |
 | 15           | June 12, 2026      |  Final Presentation              | 208-519 | Final report, User Manual |             |
